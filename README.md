@@ -1,6 +1,8 @@
 # Header - README Template
 
 ## Table of Contents
+- [Header - README Template](#header---readme-template)
+  - [Table of Contents](#table-of-contents)
   - [About the Project](#about-the-project)
   - [Tools](#tools)
   - [Installation Instructions](#installation-instructions)
@@ -26,7 +28,7 @@ This is a mini lesson that
 <a class="anchor" id="contact"></a>
 ## Contact Information
 
-![Giova](https://github.com/willybernal/willybernal.github.io/blob/12b7347eaad33fdda074d946030ab0af78af0a29/giova1.png "Willy Giovanni")
+![Octocat](https://raw.githubusercontent.com/John-Lin/octocat-images/master/img/droctocat.png "Octocat")
 
 [Giovanni Bernal](https://www.linkedin.com/in/willy-bernal-36220858/)
 
